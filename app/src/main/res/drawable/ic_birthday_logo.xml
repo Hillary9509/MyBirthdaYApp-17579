@@ -1,0 +1,36 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="200dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+
+    <!-- Candle Flame -->
+    <path
+        android:fillColor="#FFD600"
+        android:pathData="M12,2c0,0 -1,1.5 -1,2.5s1,2.5 1,2.5s1,-1.5 1,-2.5 -1,-2.5 -1,-2.5z" />
+
+    <!-- Candle Stick -->
+    <path
+        android:fillColor="#FF5252"
+        android:pathData="M11,7h2v3h-2z" />
+
+    <!-- Top Cake Layer -->
+    <path
+        android:fillColor="#F06292"
+        android:pathData="M5,13h14v-3h-14z" />
+
+    <!-- Frosting Drips -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M5,13c0,1 1,2 2,2s2,-1 2,-2s1,2 2,2s2,-1 2,-2s1,2 2,2s2,-1 2,-2h-12z" />
+
+    <!-- Bottom Cake Layer -->
+    <path
+        android:fillColor="#EC407A"
+        android:pathData="M4,20h16v-5h-16z" />
+
+    <!-- Plate -->
+    <path
+        android:fillColor="#E0E0E0"
+        android:pathData="M2,21h20v1h-20z" />
+</vector>
